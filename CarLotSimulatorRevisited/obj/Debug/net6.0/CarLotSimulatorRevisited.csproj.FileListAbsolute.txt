@@ -1,0 +1,15 @@
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\CarLotSimulatorRevisited.csproj.AssemblyReference.cache
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\CarLotSimulatorRevisited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\CarLotSimulatorRevisited.AssemblyInfoInputs.cache
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\CarLotSimulatorRevisited.AssemblyInfo.cs
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\CarLotSimulatorRevisited.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\bin\Debug\net6.0\CarLotSimulatorRevisited.exe
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\bin\Debug\net6.0\CarLotSimulatorRevisited.deps.json
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\bin\Debug\net6.0\CarLotSimulatorRevisited.runtimeconfig.json
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\bin\Debug\net6.0\CarLotSimulatorRevisited.dll
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\bin\Debug\net6.0\CarLotSimulatorRevisited.pdb
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\CarLotSimulatorRevisited.dll
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\refint\CarLotSimulatorRevisited.dll
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\CarLotSimulatorRevisited.pdb
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\CarLotSimulatorRevisited.genruntimeconfig.cache
+C:\Users\kc2us\source\repos\CarLotSimulatorRevisited\CarLotSimulatorRevisited\obj\Debug\net6.0\ref\CarLotSimulatorRevisited.dll
